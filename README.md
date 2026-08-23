@@ -10,7 +10,8 @@
 
 ## 🔗 Live Demo & Walkthrough
 
-- 🚀 **Hosted Application:** [https://talent-graph-indol.vercel.app/][https://talent-graph-backend.onrender.com]
+- 🚀 **Hosted Application:** [https://talent-graph-indol.vercel.app/]
+                              [https://talent-graph-backend.onrender.com]
 - 📹 **Screen Recording:** [INSERT YOUR VIDEO LINK HERE]
 
 ---
